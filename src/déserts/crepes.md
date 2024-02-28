@@ -1,14 +1,18 @@
 ---
 description: "Crêpes"
 tag:
-  - crêpes
+  - facile
 category:
-  - déserts
+  - Déserts
 ---
 
 # Crêpes
 
 ![](/static/crepes.webp)
+
+- :timer_clock: 20 mins
+- :knife_fork_plate: 12 crêpes
+- :cook: Facile
 
 ## Ingrédients
 

@@ -1,32 +1,27 @@
 ---
 description: "I will show up in the preview in the tags and categories menus"
 tag:
- - ingredient
+  - ingredient
 category:
- - type
+  - type
 authors:
   - name: "The Author"
     link: "http://example.com/"
     avatar: ":cook:"
 ---
 
-# Title
+# Titre
 
 ![](https://via.placeholder.com/1280x480)
 
-||| :timer_clock: Tid
-65 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Medium
-|||
+- :timer_clock: 20 mins
+- :knife_fork_plate: 4 personnes
+- :cook: Facile
 
-## Ingredienser
+## Ingrédients
 
-- 2 ts pepper
 - ...
 
-## Steg
+## Étapes
 
-1. Først ...
+1. ...
