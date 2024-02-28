@@ -7,18 +7,15 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Mere?
+  title: Recettes
 meta:
   title: " | Dolby mat til alle"
 links:
-  - text: Emner
+  - text: Tags
     link: ./tags
     icon: tag
-  - text: Kategorier
+  - text: Catégories
     link: ./categories
     icon: container
-  - text: Blog
-    link: ./blog
-    icon: book
 footer:
   copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"
