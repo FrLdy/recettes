@@ -278,3 +278,6 @@ TSWLatexianTemp*
 # My additions
 src/main.pdf
 src/main.html
+node_modules
+package-lock.json
+package.json
