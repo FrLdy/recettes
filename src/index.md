@@ -1,9 +1,9 @@
 ---
 description: "The painless, portable, cookbook cookiecutter"
-icon: ":hocho:"
+icon: ":house:"
 ---
 
-# Livre de recettes
+# Accueil
 
 This cookbook is generated with the [retype](https://retype.com/) framework. It
 is ridiculously easy to set up, has every type setting feature you can think of,
