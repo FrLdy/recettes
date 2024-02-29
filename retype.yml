@@ -3,13 +3,11 @@ locale: fr
 edit:
   repo: github.com/frldy/simple-recipes-cookbook/edit
   base: /src
-  label: "Rediger denne siden"
+  label: "Modifier la recette"
 input: ./src
 output: ./docs
 branding:
   title: Recettes
-meta:
-  title: " | Dolby mat til alle"
 links:
   - text: Tags
     link: ./tags
