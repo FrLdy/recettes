@@ -15,8 +15,6 @@ category:
 
 ## Ingrédients
 
-### Gnocchis
-
 - 200 g d'épinards frais
 - 250 g de farine
 - 2 pincées ail moulu
