@@ -15,7 +15,7 @@ authors:
 
 ![](/static/gateau-invisible-pommes.webp)
 
-| :timer_clock: 20 min | :knife_fork_plate: 6 parts | :cook: Facile |
+| :timer_clock: 20 min + 4 h| :knife_fork_plate: 6 parts | :cook: Facile |
 | :------------------: | :------------------------: | :-----------: |
 
 ## Ingrédients
@@ -36,6 +36,7 @@ authors:
    idéalement.
 1. Battre les oeufs avec le sucre, la fleur de sel et la vanille.
 1. Incorporez la farine et la levure chimique.
+2. Ajoutez le beurre fondu.
 1. Mélangez la préparation avec les pommes.
 1. Déposez les lamelles à l'horizontale dans un moule à cake beurré.
 1. Mettre en cuisson à **180°C** pendant **50 minutes** à **1 heure**.
