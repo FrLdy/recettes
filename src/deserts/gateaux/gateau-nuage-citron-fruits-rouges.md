@@ -6,8 +6,8 @@ description: "Recette de gâteau nuage au citron et fruits rouges"
 
 ![](/static/gateau-nuage.webp)
 
-| :timer_clock: `time` | :knife_fork_plate: `nb personnes` | :cook: `difficulté` |
-| :------------------: | :-------------------------------: | :-----------------: |
+<!-- | :timer_clock: `time` | :knife_fork_plate: `nb personnes` | :cook: `difficulté` | -->
+<!-- | :------------------: | :-------------------------------: | :-----------------: | -->
 
 ## Ingrédients
 
