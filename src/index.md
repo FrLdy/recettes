@@ -1,14 +1,13 @@
 ---
-description: "The painless, portable, cookbook cookiecutter"
+# title: "Recettes - Accueil"
 icon: ":house:"
 ---
 
 # Accueil
 
-This cookbook is generated with the [retype](https://retype.com/) framework. It
-is ridiculously easy to set up, has every type setting feature you can think of,
-and can be hosted on your very own website. All for free and without having to
-install anything.
+Ce livre de cuisine est généré avec le framework [retype](https://retype.com/). 
+Il est extrêmement facile à configurer, possède toutes les fonctionnalités de mise en page que vous pouvez imaginer et peut être hébergé sur votre propre site web.
+Tout cela gratuitement et sans avoir à installer quoi que ce soit.
 
-Click your way through to see some example uses, and make sure to visit the
-[retype](https://retype.com/) website for a thorough guide of every feature!
+Cliquez pour découvrir quelques exemples d'utilisation, et n'oubliez pas de visiter le site web [retype](https://retype.com/) pour un guide complet de toutes les fonctionnalités !
+
