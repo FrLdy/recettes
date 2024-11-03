@@ -9,11 +9,11 @@ output: ./docs
 branding:
   title: Recettes
 links:
-  - text: Tags
-    link: ./tags
-    icon: tag
-  - text: Catégories
-    link: ./categories
-    icon: container
+  # - text: Tags
+  #   link: ./tags
+  #   icon: tag
+  # - text: Catégories
+  #   link: ./categories
+  #   icon: container
 footer:
   copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"
