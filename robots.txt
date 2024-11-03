@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frldy.github.io/simple-recipes-cookbook/sitemap.xml.gz
+Sitemap: https://frldy.github.io/recettes/sitemap.xml.gz
