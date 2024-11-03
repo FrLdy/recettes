@@ -1,9 +1,9 @@
-url: https://frldy.github.io/simple-recipes-cookbook/
+url: https://frldy.github.io/recettes/
 locale: fr
 edit:
-  repo: github.com/frldy/simple-recipes-cookbook/edit
+  repo: github.com/frldy/recettes/edit
   base: /src
-  label: "Modifier la recette"
+  label: "Editer"
 input: ./src
 output: ./docs
 branding:
