@@ -11,7 +11,6 @@
 - 1 oignon
 - 1 gousse d’ail
 - 1.5 carotte
-- Bolognaise ( vegetal ici )
 - 1 cas de concentré de tomate
 - 1 l de bouillion de legumes ( eau + cube legumes )
 - 200 ml de creme liquide
