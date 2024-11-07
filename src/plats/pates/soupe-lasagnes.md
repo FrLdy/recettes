@@ -18,8 +18,6 @@
 
 ## Étapes
 
-1. Faites revenir l'oignon émincé et l'ail et les dés de carotte dans de l'huile
-   d'olive
-1. Ajoutes le cocentré de tomages et la sauce tomate A. Couvrez avec le bouillon
-   et la crème liquide
+1. Faites revenir l'oignon émincé et l'ail et les dés de carotte dans de l'huile d'olive
+1. Ajoutes le cocentré de tomages et la sauce tomate. Couvrez avec le bouillon et la crème liquide
 1. Ajoutez les feuilles de lasagnes et laissez mijoter 20 minutes
