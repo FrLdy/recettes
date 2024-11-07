@@ -9,12 +9,12 @@
 ## Ingrédients
 
 - 1 oignon
-- 1 gousse d’ail
-- 1.5 carotte
+- 3 gousse d’ail
+- 3 carottes
 - 1 cas de concentré de tomate
 - 1 l de bouillion de legumes ( eau + cube legumes )
 - 200 ml de creme liquide
-- 6 à 10 plaque de pates à lasagnes
+- 10 plaque de pates à lasagnes
 
 ## Étapes
 
