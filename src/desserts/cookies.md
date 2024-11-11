@@ -4,14 +4,13 @@ Une recette facile de cookies au chocolat noir, parfaite pour une activité en f
 
 ## Ingrédients
 
-- 60 g de sucre blanc
-- 60 g de sucre brun ou blond
-- 110 g de beurre mou (demi-sel, de préférence 😎)
+- 100 g de sucre brun ou blond
+- 120 g de beurre mou (demi-sel, de préférence 😎)
 - 1/2 c. à café de levure chimique
 - 1 œuf
 - 1/2 c. à café de vanille liquide
-- 225 g de farine
-- 175 g de chocolat noir
+- 170 g de farine
+- 150 g de chocolat noir
 
 ## Instructions
 
