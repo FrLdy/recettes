@@ -2,7 +2,7 @@
 
 ## Ingrédients (pour 4 personnes) :
 
-- 1 petite courge butternut ou 1/2 potimarron
+- 1.5 courge butternut ou potimarron
 - 100 g de lard fumé en fines tranches
 - 100 g de fromage de chèvre frais (Petit Billy)
 - 1 rouleau de pâte feuilletée
