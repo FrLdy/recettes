@@ -3,7 +3,7 @@ locale: fr
 edit:
   repo: github.com/frldy/recettes/edit
   base: /src
-  label: "Editer"
+  label: "Éditer"
 input: ./src
 output: ./docs
 branding:
