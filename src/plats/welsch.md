@@ -1,8 +1,4 @@
-# Recette Welsh de Ch'Nord
-
-Typiquement servi dans les petites brasseries du Nord, le Welsh est un plat inspiré de la cuisine galloise, préparé à base de fromage Cheddar. Facile et rapide à préparer, c'est une recette incontournable du Nord-Pas-de-Calais !
-
----
+# Recette de Welsh
 
 ### Ingrédients
 *Pour 4 personnes*
@@ -15,8 +11,6 @@ Typiquement servi dans les petites brasseries du Nord, le Welsh est un plat insp
 - 4 cuillères à soupe de moutarde
 - Sel et poivre
 - 4 œufs (facultatif)
-
----
 
 ### Préparation
 
