@@ -1,4 +1,4 @@
-# Recette de Welsh
+# Welsh au jambon
 
 ### Ingrédients
 *Pour 4 personnes*
