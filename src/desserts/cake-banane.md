@@ -1,4 +1,4 @@
-# Recette du Cake à la Banane
+# Cake à la Banane
 
 ## Ingrédients (pour 6 à 8 personnes)
 - 150 g de farine
