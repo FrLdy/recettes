@@ -17,7 +17,7 @@ description: "Recette de tiramisu"
 - 1 sachet de sucre vanillé
 - 1 cuillère à soupe d'Amaretto
 - 1 grand expresso
-- Du cacao amer pour la finition
+- cacao amer pour la finition
 
 ## Préparation
 
