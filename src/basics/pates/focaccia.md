@@ -1,36 +1,47 @@
-# Focaccia
+# La recette ultime de Focaccia !  
 
-## Ingrédients
 
-- **300 g** (2 tasses) de farine tout usage non blanchie  
-- **7,5 ml** (1 1/2 c. à thé) de sucre  
-- **5 ml** (1 c. à thé) de levure instantanée  
-- **5 ml** (1 c. à thé) de sel  
-- **180 ml** (3/4 tasse) d’eau tiède  
-- **60 ml** (1/4 tasse) d’huile d’olive  
-- **30 ml** (2 c. à soupe) d’herbes fraîches ciselées, au choix (thym, romarin, origan)  
-- **1 gousse d’ail**, hachée  
-- **Fleur de sel**, au goût  
+## Ingrédients :  
+- **400 g** de farine (type 00 pour respecter les ritaliens)  
+- **320 g** d’eau  
+- **8 g** de levure boulangère sèche  
+- **5 CàS** d’huile d’olive  
+- **1 CàS** de sel  
+- **1 Càc** d’herbes de Provence  
+- **1 Càc** de fleur de sel  
 
 ---
 
-## Instructions
+## Préparation :  
 
-1. Dans un grand bol, à l’aide d’une cuillère de bois, ou dans le bol d’un batteur sur socle équipé du crochet à pétrir, mélanger la farine, le sucre, la levure et le sel.  
-   Ajouter l’eau et mélanger jusqu’à l’obtention d’une boule molle.  
-   Pétrir la pâte 2 minutes sur un plan de travail fariné ou au batteur sur socle jusqu’à ce qu’elle devienne lisse.
+1. **Activation de la levure**  
+   - Active la levure dans l’eau pendant **15 minutes**.  
 
-2. Déposer et étaler la pâte avec les doigts dans un moule rectangulaire de **33 x 23 cm** (13 x 9 po) légèrement huilé.  
-   Couvrir d’un linge humide ou d’une pellicule de plastique et laisser reposer dans un endroit tiède et humide **30 minutes** ou jusqu’à ce que la pâte ait doublé de volume.
+2. **Préparation de la pâte**  
+   - Ajoute **4 cuillères à soupe** d’huile d’olive.  
+   - Verse la farine et ajoute **1 cuillère à soupe** de sel fin.  
+   - Mélange avec une cuillère.  
+   - Laisse la pâte reposer **30 minutes** pour former son réseau de gluten.  
 
-3. Ajouter l’huile sur la pâte. Bien étaler la pâte avec les doigts, en la retournant pour bien l’enrober d’huile.  
-   Créer de petites cavités avec le bout des doigts dans la pâte. Laisser gonfler la pâte **30 minutes**.
+3. **Première série de rabats**  
+   - Après 30 minutes, fais des rabats :  
+     Prends le bord de la pâte et replie-le vers le centre.  
+   - Laisse reposer encore **30 minutes** et répète l’opération.  
 
-4. Placer la grille au centre du four.  
-   Préchauffer le four à **200 °C** (400 °F).
+4. **Repos au frigo**  
+   - Verse **1 cuillère à soupe** d’huile d’olive sur la pâte et badigeonne avec tes doigts.  
+   - Réserve la pâte au frigo pendant **12 heures** (toute la nuit).  
 
-5. Dans un bol, mélanger les herbes et l’ail.  
-   Répartir sur la pâte gonflée. Saler et poivrer généreusement.
+5. **Préparation avant cuisson**  
+   - Après 12 heures, ta pâte doit avoir bien levé.  
+   - Badigeonne d’huile un caquelon et dépose la pâte dedans.  
+   - Fais **1 ou 2 pliages** comme sur la vidéo et laisse gonfler à température ambiante pendant **4 heures**.  
 
-6. Cuire au four **25 minutes** ou jusqu’à ce que la pâte soit dorée.  
-   Laisser tiédir **1 heure** (voir note).
+6. **Avant d’enfourner**  
+   - Quand la pâte a doublé de volume :  
+     - Saupoudre d’herbes de Provence et de fleur de sel.  
+     - Plante tes doigts dedans pour créer des trous où des bulles vont se former.  
+
+7. **Cuisson**  
+   - Préchauffe le four à **200°C**.  
+   - Enfourne pendant **25 à 30 minutes** 👌🏼  
