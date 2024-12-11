@@ -12,7 +12,7 @@ description: "Recette de tiramisu"
 
 - 8 biscuits à la cuillère
 - 250g de mascarpone
-- 3 œufs
+- 3/4 œufs
 - 40g de sucre
 - 1 sachet de sucre vanillé
 - 1 cuillère à soupe d'Amaretto
