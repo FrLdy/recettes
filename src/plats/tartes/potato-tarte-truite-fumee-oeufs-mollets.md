@@ -10,7 +10,7 @@
 - Feuilles de basilic
 
 ### Instructions
-1. Écraser les pommes de terre cuites dans le fond d’un moule.
+1. Écraser les pommes de terre cuites sur du papier sulfurisé.
 2. Ajouter le parmesan râpé par-dessus avec un filet d’huile d’olive.
 3. Faire gratiner la tarte au four pendant 20 minutes à 200°C.
 4. Laisser refroidir.
