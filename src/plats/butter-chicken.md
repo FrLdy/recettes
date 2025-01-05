@@ -39,11 +39,3 @@
 
 7. Finalise avec la crème liquide :  
    Verse 10 cl de crème liquide dans la poêle. Mélange bien jusqu’à ce que la sauce soit lisse et crémeuse.  
-
-8. Serre-toi !  
-   Ton butter chicken est prêt à être dégusté. Accompagne-le de naan, de chapati, ou de riz Basmati pour un repas complet.  
-
----
-
-## Bon appétit !  
-Teste cette recette et régale-toi. Abonne-toi pour plus d’idées délicieuses !  
