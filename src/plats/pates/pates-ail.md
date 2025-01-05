@@ -1,4 +1,4 @@
-# Spaghettis à l'Ail et au Piment 🌶️
+# Spaghettis à l'Ail et au Piment
 
 ## Ingrédients (2 personnes)
 
