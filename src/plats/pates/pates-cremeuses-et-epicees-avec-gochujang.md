@@ -1,22 +1,43 @@
 # Pâtes Crémeuses et Épicées
 
-## Ingrédients (pour 4 personnes)
+## Ingrédients
+- 300 g de pâtes
+- 1 grosse saucisse au fenouil
+- 1 échalote
+- 1 à 2 gousses d’ail
+- 8 cl de vin blanc
+- 10 cl de crème liquide
+- 1 c. à café de gochujang (pâte de piment coréenne)
+- 2 cébettes
+- Sel, poivre
+- Huile d’olive
 
-- 4 saucisses (peau retirée)
-- 2 échalotes
-- 1 gousse d’ail
-- Sel & poivre
-- 1 c. à café de concentré de tomate
-- 1 c. à soupe de gochujang ou de pâte de piment ou sriracha
-- 1-2 louches d'eau de cuisson des pâtes
-- 150 ml de crème fraîche épaisse
-- Une poignée de parmesan râpé
-- Facultatif : ajouter des flocons de piment pour plus de piquant
+---
 
-## Étapes
+## Préparation  
 
-1. Émiettez les saucisses dans la poêle jusqu'à obtenir de petits morceaux. Faites-les frire à feu vif pendant 6-7 minutes jusqu'à ce qu'elles soient bien dorées.
-2. Pendant ce temps, commencez à cuire vos pâtes.
-3. Ajoutez les échalotes dans la poêle et faites-les frire pendant 3-4 minutes, puis ajoutez l’ail et faites revenir pendant une minute supplémentaire.
-4. Incorporez le concentré de tomate et le gochujang, puis mélangez avec les saucisses jusqu'à homogénéité avant d’ajouter la crème fraîche et l'eau de cuisson des pâtes.
-5. Laissez mijoter 2-3 minutes, puis ajoutez les pâtes cuites et le parmesan.
+### 1. Préparer les ingrédients :
+- Hacher finement l’échalote et l’ail.  
+- Enlever la peau de la saucisse aux fenouilles.  
+
+### 2. Cuire la saucisse :  
+- Chauffer une poêle avec un filet d'huile d'olive.  
+- Ajouter la saucisse et l'écraser avec un presse-purée.  
+- Laisser bien colorer.  
+
+### 3. Ajouter les aromates :  
+- Incorporer l'échalote et l'ail à la saucisse dorée.  
+- Déglacer avec du vin blanc en grattant bien les sucs au fond de la poêle.  
+
+### 4. Préparer la sauce :  
+- Pendant que les pâtes cuisent, verser la crème liquide dans la poêle.  
+- Ajouter du poivre noir et une cuillère de gochujang (l’ingrédient secret !).  
+- Ajouter une louche d’eau de cuisson des pâtes pour lier la sauce et laisser réduire doucement.  
+
+### 5. Assembler :  
+- Ajouter les pâtes cuites *al dente* dans la poêle.  
+- Incorporer une poignée de parmesan râpé et de la sébette (ciboulette ou herbes fraîches).  
+- Mélanger jusqu’à obtenir une texture bien onctueuse.  
+
+### 6. Servir :  
+- Dresser dans des assiettes et arroser d’un filet d’huile d’olive.  
