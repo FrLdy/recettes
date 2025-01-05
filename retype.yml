@@ -16,4 +16,4 @@ links:
   #   link: ./categories
   #   icon: container
 footer:
-  copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"
+  copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/frldy/recettes)"
