@@ -1,4 +1,4 @@
-# Potatoes Maison au Four 🥔
+# Potatoes au four 🥔
 
 ## Ingrédients :
 - **750 g** de pommes de terre (bio si possible)  
