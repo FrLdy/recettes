@@ -1,7 +1,5 @@
 # One Pot Saumon et Riz
 
-Voici l'une de mes recettes préférées de l'année dernière, parfaite pour bien commencer janvier : saine sans le vouloir, pleine de saveurs et très facile à préparer. Bon appétit à tous ! x JGS  
-
 ### Pour 2 personnes avec des restes
 
 - **300 g** de riz Basmati  
