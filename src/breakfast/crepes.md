@@ -1,53 +1,32 @@
----
-description: "Recette de crêpes"
-tag:
-  - facile
-category:
-  - Déserts
-# authors:
-#   - name: "The Author"
-#     link: "http://example.com/"
-#     avatar: ":cook:"
----
-
 # Crêpes
 
-![](/static/crepes.webp)
-
-| :timer_clock: 20 min | :knife_fork_plate: 15 crêpes | :cook: Facile |
-| :------------------: | :--------------------------: | :-----------: |
-
 ## Ingrédients
-- 500 g de farine de froment  
-- 200 g de sucre  
-- 3 œufs  
-- 1 pincée de sel  
-- 50 g de beurre  
-- 1 litre de lait demi-écrémé  
 
----
+- 300 g de farine  
+- 3 œufs entiers  
+- 3 cuillères à soupe de sucre  
+- 2 cuillères à soupe d'huile  
+- 50 g de beurre fondu  
+- 60 cl de lait  
+- 5 cl de rhum (optionnel)  
 
 ## Préparation
-1. **Dans un saladier** :  
-   Mettre le sucre, le beurre fondu, le gros sel et les œufs.  
 
-2. **Battre l’ensemble** :  
-   Ajouter progressivement la farine de froment et un demi-verre de lait, jusqu’à obtenir une pâte homogène et sans grumeaux.  
+1. **Préparer la base :**  
+   Dans un saladier, mettre la farine et former un puits au centre.  
 
-3. **Délayer avec le reste de lait** :  
-   Une fois la pâte bien mélangée, ajouter le reste du lait pour obtenir une consistance fluide.  
+2. **Incorporer les ingrédients :**  
+   Ajouter les œufs, le sucre, l'huile et le beurre fondu dans le puits.  
 
-4. **Repos de la pâte** :  
-   Laisser reposer la pâte minimum **1 heure** avant la cuisson.  
+3. **Mélanger la pâte :**  
+   Mélanger délicatement avec un fouet en ajoutant progressivement le lait. La pâte doit avoir une consistance fluide mais légèrement épaisse.  
 
-5. **Cuisson des crêpes** :  
-   - Préchauffer une crêpière électrique ou à gaz à **210°C**.
-   - Retourner chaque crêpe à l’aide d’une spatule lorsque les bords commencent à se décoller.  
-   - Finir la cuisson quelques secondes sur la deuxième face.  
+4. **Parfumer :**  
+   Ajouter le rhum pour parfumer (facultatif).  
 
----
-
-## Astuces du Chef et Suggestions
-- Respectez bien **l’ordre d’incorporation des ingrédients** pour une pâte réussie.  
-- Ajoutez **2 sachets de sucre vanillé** pour parfumer légèrement la pâte.  
-- Plus la température de la plaque est élevée, plus la crêpe sera **moelleuse**.
+5. **Cuisson des crêpes :**  
+   - Faire chauffer une poêle antiadhésive à feu doux.  
+   - La huiler légèrement à l’aide d’un papier essuie-tout.  
+   - Verser une louche de pâte dans la poêle, répartir uniformément et cuire jusqu'à ce que le premier côté soit doré.  
+   - Retourner la crêpe et cuire l'autre côté.  
+   - Répéter jusqu'à épuisement de la pâte.  
