@@ -17,3 +17,7 @@
 3. **Sucrer avec le sirop d’agave** : quelques cuillères à soupe selon ton goût (tu peux finir la bouteille s’il en reste peu !).
 4. **Mélanger le tout** pour obtenir une texture homogène.
 5. **Déguster** immédiatement pour un petit-déjeuner gourmand et plein d’énergie.
+
+## Cuisson 
+
+- **30min à 180°C**
